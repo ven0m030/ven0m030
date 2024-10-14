@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ven0m030
 - 👀 I’m interested in ... learning to code.
-- 🌱 I’m currently learning ... Python; SQL
+- 🌱 I’m currently learning ... Python; SQL; C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
